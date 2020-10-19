@@ -1,0 +1,7 @@
+Knwon issues
+
+Picture squashing if the original file is not square
+
+username and email validating always as case sensitive. Just need to store them as lower case
+and query them as lowercase
+
